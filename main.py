@@ -1,8 +1,6 @@
-import whisperx
 from faster_whisper import WhisperModel
 import logging
 import tarfile
-import zipfile
 from pathlib import Path
 
 #open archive to acces audiofiles
