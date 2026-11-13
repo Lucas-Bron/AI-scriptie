@@ -1,7 +1,7 @@
-# AI-scriptie
+# AI-Thesis
 By Lucas Bron, 4757092
 
-The Jup file is the main part of the code. The main.py is an old file that was used to test and to put the GWC data into the right directories.
+The jup.ipynb file is the main part of the code. The main.py is an older file, but parts of it are still necessary for jup.ipynb to work. jup.ipynb contains markdown cells that mark when main.py is necessary.
 
 Log of steps I took to get this code to work:
 
